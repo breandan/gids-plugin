@@ -1,0 +1,2 @@
+rootProject.name = 'gids-plugin'
+rootProject.buildFileName='build.gradle.kts'

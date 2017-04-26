@@ -1,0 +1,11 @@
+<idea-plugin>
+  <name>GIDS</name>
+  <actions>
+    <!-- Add your actions here -->
+    <action id="AceAction"
+            class="com.gids.ShowBox"
+            text="Activate Box">
+      <keyboard-shortcut keymap="$default" first-keystroke="ctrl alt shift K"/>
+    </action>
+  </actions>
+</idea-plugin>
